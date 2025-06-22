@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Titilayo Kuloyo.
 - 👀 I’m a data analyst. 
-- 🌱 I’m currently skilled in Power BI, SQl, and Python.
-- 💞️ I’m looking to collaborate on data visualization projects focused on data sets gathered kaggle and public websites. 
+- 🌱 I’m currently skilled in Tableau, SQl, and Python.
+- 💞️ I’m looking to collaborate on data visualization projects focused on data sets gathered from kaggle and public websites. 
 - 📫 You can reach me at Titikuloyo@gmail.com.
 
 <!---
