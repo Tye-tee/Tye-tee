@@ -3,7 +3,7 @@
 
 With a foundation in behavioral science and research methodology, I’ve investigated neurological behavior in model organisms and applied statistical rigor to explore the relationship between sleep and cognitive function.
 
- On the business side, I’ve worked as a insurance agent in insurance, translating uncertainty into actionable recommendations and helping stakeholders make informed financial decisions.
+ On the business side, I’ve worked in insurance, translating uncertainty into actionable recommendations and helping stakeholders make informed financial decisions.
 
 Currently focused on:
 - Data analytics in finance, tech, and healthcare
