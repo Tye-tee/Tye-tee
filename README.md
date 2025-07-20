@@ -24,7 +24,7 @@ I’ve worked in:
 Check out some of my current and upcoming projects:
 -  NYSE Financial Modeling Dashboard – Excel ( https://github.com/Tye-tee/NYSE-Financial-Modeling-Dashboard )
 - Carbon Emissions Analysis - PostgreSQL + Python (https://github.com/Tye-tee/Carbon_Emissions_Analysis)
-- Clinical Trial Analysis - Excel + Python (In progress - https://github.com/Tye-tee/Clinical_Trial_Analysis)
+-  (https://github.com/Tye-tee/Drosophila_Sleep_Research)
 - Insurance Risk Analysis - Python + SQL + Tableau (In progress - https://github.com/Tye-tee/Insurance_Risk_Analysis)
 
 ### 💬 Let’s Connect
