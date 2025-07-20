@@ -22,10 +22,10 @@ I’ve worked in:
 
 ### 📁 Featured Repos
 Check out some of my current and upcoming projects on my profile:
--  NYSE Financial Modeling Dashboard – Excel [( https://github.com/Tye-tee/NYSE-Financial-Modeling-Dashboard )]
-- Deloitte Client Simulation: Daikibo Telemetry Dashboard - Tableau + Client Reporting [(https://github.com/Tye-tee/Deloitte__Client_Telemetry_Analysis)]
-- Neurological Behavior of Drosophila melanogaster - Excel + Data Visualization + Market research [(https://github.com/Tye-tee/Drosophila_Sleep_Research)]
-- Insurance Risk Analysis - Python + SQL + Tableau [(In progress - https://github.com/Tye-tee/Insurance_Risk_Analysis)]
+-  NYSE Financial Modeling Dashboard – Excel + Market Research [( https://github.com/Tye-tee/NYSE-Financial-Modeling-Dashboard )]
+- Daikibo Telemetry Dashboard - Tableau + Client Reporting - [(https://github.com/Tye-tee/Deloitte__Client_Telemetry_Analysis)]
+- Neurological Behavior of *Drosophila melanogaster* - Hypothesis Testing - [(https://github.com/Tye-tee/Drosophila_Sleep_Research)]
+- Insurance Risk Analysis - Python + SQL + Tableau - [(In progress - https://github.com/Tye-tee/Insurance_Risk_Analysis)]
 
 ### 💬 Let’s Connect
 I’m open to collaborations and opportunities in:
